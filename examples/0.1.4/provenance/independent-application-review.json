@@ -1,0 +1,79 @@
+{
+  "status": "PASS_INDEPENDENT_REAL45_APPLICATION_AND_PACKAGE_REGISTRATION",
+  "recorded_at_utc": "2026-11-18T14:53:29.774432+00:00",
+  "version": "v2.1.45",
+  "manifest_ref": {
+    "path": "/Users/ekaterinasilaeva/Codex/VE-Agent/Версии/v2.1.45/manifest.json",
+    "sha256": "da0a47efca7e35d6173c563a38a71514b12ef1ca5225247a172f70ddc39b9045"
+  },
+  "content_set_sha256": "12e2e3d8ac3443f175651b36b1c21c86c50385e89551c2ba1ec8e8f48d7330dc",
+  "acceptance_ref": {
+    "path": "/Users/ekaterinasilaeva/Codex/VE-Agent/Версии/v2.1.45/03_Приемка_технического_комплекта.json",
+    "sha256": "266f094558e9d6a88439ffb256fafb13d920d676836ba48d0dabd346dc6faef7"
+  },
+  "real_application": true,
+  "real_application_head": "EVT-0875",
+  "package_registration_head": "EVT-0877",
+  "real_state_ref": {
+    "path": "/Users/ekaterinasilaeva/Encr_PRGRES/VE_анализ_этап9_техводоснабжение_2026-10-18/state.json",
+    "sha256": "48167f64364ca6f6ed71d0017dcc23bcc50843f2e5b7aba0426003d12dd345a8"
+  },
+  "real_journal_ref": {
+    "path": "/Users/ekaterinasilaeva/Encr_PRGRES/VE_анализ_этап9_техводоснабжение_2026-10-18/events.jsonl",
+    "sha256": "85c27d0bb1763a59fa0632d1f7c885c6eade3b8971ee84cc7699593f90615c62"
+  },
+  "source_checkpoint_ref": {
+    "path": "/Users/ekaterinasilaeva/Codex/VE-Agent/outputs/diagnostics/2026-11-18_real44_aggregation/REAL_REPORT_CHECKPOINT_EVT-0872.json.gz",
+    "sha256": "2dfcf295eae73aa8420541709fe73935782735a0ffeb31d4253235d87cb419e2"
+  },
+  "source872_journal_prefix_preserved": true,
+  "source239_decisions_preserved": true,
+  "source92_elements_preserved": true,
+  "source_artifacts_preserved": true,
+  "accepted31_analyses_preserved": true,
+  "operator61_closures_preserved": true,
+  "unchanged98_source_rows": true,
+  "unchanged196_verbatim_cells_basis": "Unchanged real aggregation physical SHA and immutable approved form ZIP; complete binding1.1 checks by native receipt registrations.",
+  "no_TEST_decisions_imported": true,
+  "final_report_accepted": false,
+  "report_status": "ready",
+  "status_real": "paused",
+  "new_decision_id": "DEC-OP-V2145-ACCEPT-APPLY-REPORT-20261118-001",
+  "materials": [
+    {
+      "event_id": "EVT-0876",
+      "kind": "document",
+      "receipt_ref": {
+        "path": "/Users/ekaterinasilaeva/Encr_PRGRES/VE_анализ_этап9_техводоснабжение_2026-10-18/report/actual31_v45_presentation_20261118/document_receipt.json",
+        "sha256": "16b54209afd7b77d50d2a43d14ed661be3329bc20b06a64c36461161fc4e23b7"
+      },
+      "html_ref": {
+        "path": "/Users/ekaterinasilaeva/Encr_PRGRES/VE_анализ_этап9_техводоснабжение_2026-10-18/report/actual31_v45_presentation_20261118/Итоговый отчет по VE-анализу.html",
+        "sha256": "7eed7781fd76473686592d1bc2f46a9c5e44efca0587e72f61f1aec3ac052f74"
+      },
+      "subject": "document:9f966d1bea21cb342f16ff934d51979881a491922fcbb2f9a2bd2472de274e1e"
+    },
+    {
+      "event_id": "EVT-0877",
+      "kind": "table_4",
+      "receipt_ref": {
+        "path": "/Users/ekaterinasilaeva/Encr_PRGRES/VE_анализ_этап9_техводоснабжение_2026-10-18/report/actual31_v45_presentation_20261118/table_4_receipt.json",
+        "sha256": "6655561cdfda4bd4a1f0eb0f59bfbfa70b569e7d82c9ac6428963942345077fc"
+      },
+      "html_ref": {
+        "path": "/Users/ekaterinasilaeva/Encr_PRGRES/VE_анализ_этап9_техводоснабжение_2026-10-18/report/actual31_v45_presentation_20261118/table-4-summary.html",
+        "sha256": "ab64fcac615d415ab519759edaf644a19e9675530d7bab1503eab904e8f6da6b"
+      },
+      "subject": "table_4:5ee07b61f9c21f97a32e1c63288b49d2a5c81702f9baf815e06a7c3f6275e24f"
+    }
+  ],
+  "portable_binding_ref": {
+    "path": "/Users/ekaterinasilaeva/Codex/VE-Agent/outputs/diagnostics/2026-11-18_real45_application/BINDING45_REAL.json",
+    "sha256": "728bae6f0ee2b09e91dd4d1df0160e283fcd88105e926c66ce0fde0051c7e3a9"
+  },
+  "bundle_ref": {
+    "path": "/Users/ekaterinasilaeva/Codex/VE-Agent/outputs/diagnostics/2026-11-17_v2_1_44_operator_scope/report_form_revision/revision_0.1.3/VE_stage9_report_0.1.3.zip",
+    "sha256": "4028b8c043606b50de14cc318683720caa7897aeaa8fd1c20ad2646d02e05db9"
+  },
+  "next_action": "Present unchanged full ZIP in existing small-run chat for a separate final report acceptance; no new elements or external initiative write."
+}

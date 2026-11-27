@@ -1,0 +1,1149 @@
+{
+  "status": "REAL_RUN_FORM_REISSUE_AWAITING_OPERATOR_REVIEW",
+  "revision": "0.1.4",
+  "created_date": "2026-11-18",
+  "entry_point": "Итоговый отчет по VE-анализу.html",
+  "copy_only": false,
+  "operator_accepted": false,
+  "native_application": false,
+  "files": [
+    {
+      "source_path": "/Users/ekaterinasilaeva/Encr_PRGRES/VE_анализ_этап9_техводоснабжение_2026-10-18/ve_analysis/application_v2124_20261104/cns-pump/accepted_ve_element_v2124.html",
+      "package_path": "accepted/1.1.1.1.html",
+      "original_sha256": "540984db26167bc9b8d3f92351b20dc460ae5f0f9e84c50c3ddb94906daea7f8",
+      "packaged_sha256": "b24bb4d4df20fef86d513c79ddfa68d2338bf6b0d2a4232ce5106629cabd6688",
+      "original_bytes": 99437,
+      "packaged_bytes": 93684,
+      "kind": "accepted_or_sample_html",
+      "rewritten_local_links": 46,
+      "accepted_source": {
+        "decision_id": "DEC-REAL-PRESERVED-V21-CNS-PUMP-ELEMENT-20261104",
+        "accepted_html_sha256": "540984db26167bc9b8d3f92351b20dc460ae5f0f9e84c50c3ddb94906daea7f8",
+        "analysis_artifact_id": "ve-cns-pump-1111",
+        "analysis_version": "0.1.3",
+        "document_revision": "0.1.4"
+      }
+    },
+    {
+      "source_path": "/Users/ekaterinasilaeva/Encr_PRGRES/VE_анализ_этап9_техводоснабжение_2026-10-18/ve_analysis/application_v2124_20261104/cns-screen/accepted_ve_element_v2124.html",
+      "package_path": "accepted/1.1.1.2.html",
+      "original_sha256": "df21eb4b4bba950c38ed462d2112113c1d0bb18e73f7f88c5bf05d17d970e77a",
+      "packaged_sha256": "ff98c03d24cc6bfadef29cf71900797f9cd6d64b26583cd4b8a6f2e55ca1c079",
+      "original_bytes": 76159,
+      "packaged_bytes": 71975,
+      "kind": "accepted_or_sample_html",
+      "rewritten_local_links": 30,
+      "accepted_source": {
+        "decision_id": "DEC-REAL-PRESERVED-V21-CNS-SCREEN-ELEMENT-20261104",
+        "accepted_html_sha256": "df21eb4b4bba950c38ed462d2112113c1d0bb18e73f7f88c5bf05d17d970e77a",
+        "analysis_artifact_id": "ve-cns-screen-1112",
+        "analysis_version": "0.1.2",
+        "document_revision": "0.1.3"
+      }
+    },
+    {
+      "source_path": "/Users/ekaterinasilaeva/Encr_PRGRES/VE_анализ_этап9_техводоснабжение_2026-10-18/ve_analysis/cns_logistics_1113_20261112/ve_element_0.1.2.html",
+      "package_path": "accepted/1.1.1.3.html",
+      "original_sha256": "f473fba9e774dbdeace72d0a5df1fdfe780fa083371d49e0f2ceb5acfa68df07",
+      "packaged_sha256": "5c3a3e701b54978ca8b51783fd92e802edd4f35e644d30b0c1bcc7b0b73fc788",
+      "original_bytes": 63120,
+      "packaged_bytes": 61768,
+      "kind": "accepted_or_sample_html",
+      "rewritten_local_links": 10,
+      "accepted_source": {
+        "decision_id": "DEC-OP-CNS-LOGISTICS-1113-FINAL-ACCEPT-20261112-001",
+        "accepted_html_sha256": "f473fba9e774dbdeace72d0a5df1fdfe780fa083371d49e0f2ceb5acfa68df07",
+        "analysis_artifact_id": "ve-cns-logistics-1113",
+        "analysis_version": "0.1.2",
+        "document_revision": "0.1.2"
+      }
+    },
+    {
+      "source_path": "/Users/ekaterinasilaeva/Encr_PRGRES/VE_анализ_этап9_техводоснабжение_2026-10-18/ve_analysis/parallel_cns_electrical_r24_20261029/cns-hv/application_v2124_20261104/accepted_ve_element_v2124.html",
+      "package_path": "accepted/1.1.2.1.html",
+      "original_sha256": "3d5a3ce831f3ebbed4ae62082bb0f233bc88ab29f27f34f46b458ebf91fae5d9",
+      "packaged_sha256": "bb32592804ecce9cf5c76f42b1edfd47d7b8bc92763f62d48049d84873714361",
+      "original_bytes": 94499,
+      "packaged_bytes": 88729,
+      "kind": "accepted_or_sample_html",
+      "rewritten_local_links": 41,
+      "accepted_source": {
+        "decision_id": "DEC-REAL-PRESERVED-V21-CNS-HV-ELEMENT-20261104",
+        "accepted_html_sha256": "3d5a3ce831f3ebbed4ae62082bb0f233bc88ab29f27f34f46b458ebf91fae5d9",
+        "analysis_artifact_id": "ve-cns-hv-r25-001",
+        "analysis_version": "0.1.2",
+        "document_revision": "0.1.3"
+      }
+    },
+    {
+      "source_path": "/Users/ekaterinasilaeva/Encr_PRGRES/VE_анализ_этап9_техводоснабжение_2026-10-18/ve_analysis/parallel_cns_electrical_r24_20261029/cns-lv/application_v2124_20261104/accepted_ve_element_v2124.html",
+      "package_path": "accepted/1.1.2.2.html",
+      "original_sha256": "bb4f7a5d5410313be7dd1d90fa327c3109745dfdb17428461fff8e7108d7eec6",
+      "packaged_sha256": "740e672e0ffb4e064e9a18c71fdf54c82f5a31ad8f408adf89cbed3a2608909e",
+      "original_bytes": 67353,
+      "packaged_bytes": 64714,
+      "kind": "accepted_or_sample_html",
+      "rewritten_local_links": 27,
+      "accepted_source": {
+        "decision_id": "DEC-REAL-PRESERVED-V21-CNS-LV-ELEMENT-20261104",
+        "accepted_html_sha256": "bb4f7a5d5410313be7dd1d90fa327c3109745dfdb17428461fff8e7108d7eec6",
+        "analysis_artifact_id": "ve-cns-lv-r24-001",
+        "analysis_version": "0.1.3",
+        "document_revision": "0.1.4"
+      }
+    },
+    {
+      "source_path": "/Users/ekaterinasilaeva/Encr_PRGRES/VE_анализ_этап9_техводоснабжение_2026-10-18/ve_analysis/cns_cable_support_1123_20261112/ve_element_0.1.3.html",
+      "package_path": "accepted/1.1.2.3.html",
+      "original_sha256": "b2b9d5b6aa8c9ddb1deda7b50ab9b43f4da887bda8ec9235681a4fd053d50caa",
+      "packaged_sha256": "d6f6dec918e15c6196b2a29bbe4c7eea51b54b0b774ebee238ccf00af21e42e2",
+      "original_bytes": 78576,
+      "packaged_bytes": 77516,
+      "kind": "accepted_or_sample_html",
+      "rewritten_local_links": 8,
+      "accepted_source": {
+        "decision_id": "DEC-OP-CNS-SUPPORT-1123-013-FINAL-ACCEPT-20261113-001",
+        "accepted_html_sha256": "b2b9d5b6aa8c9ddb1deda7b50ab9b43f4da887bda8ec9235681a4fd053d50caa",
+        "analysis_artifact_id": "ve-cns-cable-support-1123",
+        "analysis_version": "0.1.3",
+        "document_revision": "0.1.3"
+      }
+    },
+    {
+      "source_path": "/Users/ekaterinasilaeva/Encr_PRGRES/VE_анализ_этап9_техводоснабжение_2026-10-18/ve_analysis/cns_cable_demolition_1124_20261112/ve_element_0.1.1.html",
+      "package_path": "accepted/1.1.2.4.html",
+      "original_sha256": "3d7850e1ea740240fc5052fe0e60ceaa584ca198fa6d0442ea5223c7f6b8f27d",
+      "packaged_sha256": "25b8a2c26126aa7acd079df24928e4bc40a81cb7d6de9976dbbf68ce297c6b38",
+      "original_bytes": 54521,
+      "packaged_bytes": 53400,
+      "kind": "accepted_or_sample_html",
+      "rewritten_local_links": 8,
+      "accepted_source": {
+        "decision_id": "DEC-OP-CNS-CABLE-DEMOLITION-1124-FINAL-ACCEPT-20261112-001",
+        "accepted_html_sha256": "3d7850e1ea740240fc5052fe0e60ceaa584ca198fa6d0442ea5223c7f6b8f27d",
+        "analysis_artifact_id": "ve-cns-cable-demolition-1124",
+        "analysis_version": "0.1.1",
+        "document_revision": "0.1.1"
+      }
+    },
+    {
+      "source_path": "/Users/ekaterinasilaeva/Encr_PRGRES/VE_анализ_этап9_техводоснабжение_2026-10-18/ve_analysis/parallel_cns_electrical_r24_20261029/cns-earthing/application_v2124_20261104/accepted_ve_element_v2124.html",
+      "package_path": "accepted/1.1.2.5.html",
+      "original_sha256": "b2b01f2472163733c2f5277b5b9f26db4d0a5eb446d983a5b7b54c7f8eaf25da",
+      "packaged_sha256": "a4021941d86371ccc9d5fb102380b4ee1b1b92a55592eff09c8503565e0fce3d",
+      "original_bytes": 72227,
+      "packaged_bytes": 69486,
+      "kind": "accepted_or_sample_html",
+      "rewritten_local_links": 22,
+      "accepted_source": {
+        "decision_id": "DEC-REAL-PRESERVED-V21-CNS-EARTHING-ELEMENT-20261104",
+        "accepted_html_sha256": "b2b01f2472163733c2f5277b5b9f26db4d0a5eb446d983a5b7b54c7f8eaf25da",
+        "analysis_artifact_id": "ve-cns-earthing-r24",
+        "analysis_version": "0.1.3",
+        "document_revision": "0.1.4"
+      }
+    },
+    {
+      "source_path": "/Users/ekaterinasilaeva/Encr_PRGRES/VE_анализ_этап9_техводоснабжение_2026-10-18/ve_analysis/cns_et_logistics_1126_20261113/ve_element_0.1.0.html",
+      "package_path": "accepted/1.1.2.6.html",
+      "original_sha256": "56310e0c654e2b2069fc06d0568aeb6b2c20e36d4a31a9b25ccf2aa1b30eb827",
+      "packaged_sha256": "d6e2cb0b03cc7f388eea273db38019f95f6ddc2faa2e3a31013f42b18a62e3c8",
+      "original_bytes": 41247,
+      "packaged_bytes": 40013,
+      "kind": "accepted_or_sample_html",
+      "rewritten_local_links": 9,
+      "accepted_source": {
+        "decision_id": "DEC-OP-CNS-ET-1126-010-ACCEPT-20261113-001",
+        "accepted_html_sha256": "56310e0c654e2b2069fc06d0568aeb6b2c20e36d4a31a9b25ccf2aa1b30eb827",
+        "analysis_artifact_id": "ve-cns-et-logistics-1126",
+        "analysis_version": "0.1.0",
+        "document_revision": "0.1.0"
+      }
+    },
+    {
+      "source_path": "/Users/ekaterinasilaeva/Encr_PRGRES/VE_анализ_этап9_техводоснабжение_2026-10-18/ve_analysis/cns_measure_11311_20261110/ve_element_0.1.2.html",
+      "package_path": "accepted/1.1.3.1.1.html",
+      "original_sha256": "e72ff14b63dc86a6fadc58b4219f54a39b1844b2708eee72a385c6e63aa69c06",
+      "packaged_sha256": "ee2880b71712ad8214ed1f1890481d0e7bb0bae91b0e6549581272aec7038211",
+      "original_bytes": 103481,
+      "packaged_bytes": 99934,
+      "kind": "accepted_or_sample_html",
+      "rewritten_local_links": 26,
+      "accepted_source": {
+        "decision_id": "DEC-OP-CNS-MEASURE-11311-FINAL-ACCEPT-20261110-001",
+        "accepted_html_sha256": "e72ff14b63dc86a6fadc58b4219f54a39b1844b2708eee72a385c6e63aa69c06",
+        "analysis_artifact_id": "ve-cns-measure-11311",
+        "analysis_version": "0.1.2",
+        "document_revision": "0.1.2"
+      }
+    },
+    {
+      "source_path": "/Users/ekaterinasilaeva/Encr_PRGRES/VE_анализ_этап9_техводоснабжение_2026-10-18/ve_analysis/cns_record_11312_20261110/ve_element_0.1.3.html",
+      "package_path": "accepted/1.1.3.1.2.html",
+      "original_sha256": "2a643634f5c0a686496368b7cdbdfdc556fee2ec4e78ee32af901b61f1aabbe6",
+      "packaged_sha256": "851de32100e08946d2092937e0e63175620b088ce07296ad1c5139ad75b9f46c",
+      "original_bytes": 66559,
+      "packaged_bytes": 66116,
+      "kind": "accepted_or_sample_html",
+      "rewritten_local_links": 3,
+      "accepted_source": {
+        "decision_id": "DEC-OP-CNS-RECORD-11312-FINAL-ACCEPT-20261111-001",
+        "accepted_html_sha256": "2a643634f5c0a686496368b7cdbdfdc556fee2ec4e78ee32af901b61f1aabbe6",
+        "analysis_artifact_id": "ve-cns-record-11312",
+        "analysis_version": "0.1.3",
+        "document_revision": "0.1.3"
+      }
+    },
+    {
+      "source_path": "/Users/ekaterinasilaeva/Encr_PRGRES/VE_анализ_этап9_техводоснабжение_2026-10-18/ve_analysis/cns_alarm_11313_20261110/ve_element_0.1.0.html",
+      "package_path": "accepted/1.1.3.1.3.html",
+      "original_sha256": "f468c3ab5f74b666748f40428a11bae8d4a8c2b8a28445c61337e1082c7f48eb",
+      "packaged_sha256": "5f2161f8a6a806b2c69f29bc5f020b882e91537fe140d9c283297a34fe775586",
+      "original_bytes": 53747,
+      "packaged_bytes": 52643,
+      "kind": "accepted_or_sample_html",
+      "rewritten_local_links": 8,
+      "accepted_source": {
+        "decision_id": "DEC-OP-CNS-TECH-ALARM-11313-FINAL-ACCEPT-20261112-001",
+        "accepted_html_sha256": "f468c3ab5f74b666748f40428a11bae8d4a8c2b8a28445c61337e1082c7f48eb",
+        "analysis_artifact_id": "ve-cns-tech-alarm-11313",
+        "analysis_version": "0.1.0",
+        "document_revision": "0.1.0"
+      }
+    },
+    {
+      "source_path": "/Users/ekaterinasilaeva/Encr_PRGRES/VE_анализ_этап9_техводоснабжение_2026-10-18/ve_analysis/cns_instrument_panel_11314_20261113/ve_element_0.1.0.html",
+      "package_path": "accepted/1.1.3.1.4.html",
+      "original_sha256": "15de5dc0f6e259100002357eea40ca918ed178b821e2c0fc8ea82b140f29d8a3",
+      "packaged_sha256": "0838c314274c5090afeecfed0a9e46a4789d8135431db3dac46cd11daf8c39eb",
+      "original_bytes": 38422,
+      "packaged_bytes": 37156,
+      "kind": "accepted_or_sample_html",
+      "rewritten_local_links": 9,
+      "accepted_source": {
+        "decision_id": "DEC-OP-CNS-PANEL-11314-010-ACCEPT-20261113-001",
+        "accepted_html_sha256": "15de5dc0f6e259100002357eea40ca918ed178b821e2c0fc8ea82b140f29d8a3",
+        "analysis_artifact_id": "ve-cns-instrument-panel-11314",
+        "analysis_version": "0.1.0",
+        "document_revision": "0.1.0"
+      }
+    },
+    {
+      "source_path": "/Users/ekaterinasilaeva/Encr_PRGRES/VE_анализ_этап9_техводоснабжение_2026-10-18/ve_analysis/cns_instrument_links_11315_20261113/VE_1.1.3.1.5_0.1.2.html",
+      "package_path": "accepted/1.1.3.1.5.html",
+      "original_sha256": "1c853b7344b5025a1d1e4364b314bfd9bd138ae5fa2a624783c382a62bd107b1",
+      "packaged_sha256": "5f854392c95c0c212d1fe2bae4c6e61fcc087d1bf9cfd69039cca6ff6c8aa6aa",
+      "original_bytes": 124252,
+      "packaged_bytes": 122989,
+      "kind": "accepted_or_sample_html",
+      "rewritten_local_links": 9,
+      "accepted_source": {
+        "decision_id": "DEC-OP-CNS-LINKS-11315-012-FINAL-ACCEPT-20261114-001",
+        "accepted_html_sha256": "1c853b7344b5025a1d1e4364b314bfd9bd138ae5fa2a624783c382a62bd107b1",
+        "analysis_artifact_id": "ve-cns-instrument-links-11315",
+        "analysis_version": "0.1.2",
+        "document_revision": "0.1.2"
+      }
+    },
+    {
+      "source_path": "/Users/ekaterinasilaeva/Encr_PRGRES/VE_анализ_этап9_техводоснабжение_2026-10-18/ve_analysis/cns_fire_detect_1141_v31_20261106/ve_element_0.1.2.html",
+      "package_path": "accepted/1.1.4.1.html",
+      "original_sha256": "24bcd0313a11878f24e36968915da476f18656661509a0b47915f0500b1529be",
+      "packaged_sha256": "d00d0456ca54502c6571c837c01e9a2f5b33a17c2ae9c60facd381b59c1aafaf",
+      "original_bytes": 45847,
+      "packaged_bytes": 43129,
+      "kind": "accepted_or_sample_html",
+      "rewritten_local_links": 23,
+      "accepted_source": {
+        "decision_id": "DEC-OP-FIRE-1141-012-ACCEPT-20261106-001",
+        "accepted_html_sha256": "24bcd0313a11878f24e36968915da476f18656661509a0b47915f0500b1529be",
+        "analysis_artifact_id": "ve-cns-fire-detect-1141",
+        "analysis_version": "0.1.2",
+        "document_revision": "0.1.2"
+      }
+    },
+    {
+      "source_path": "/Users/ekaterinasilaeva/Encr_PRGRES/VE_анализ_этап9_техводоснабжение_2026-10-18/ve_analysis/cns_fire_warn_1142_20261106/ve_element_0.1.0.html",
+      "package_path": "accepted/1.1.4.2.html",
+      "original_sha256": "65e7427faa3cac72f199a1deda9790e38de50e6d79d91fd5aeb6dbc2c6ffe188",
+      "packaged_sha256": "eb78d236aec1a0314f5be4b2d022e545109a85dfbd38717f61944ced3e8bde3d",
+      "original_bytes": 47324,
+      "packaged_bytes": 46614,
+      "kind": "accepted_or_sample_html",
+      "rewritten_local_links": 8,
+      "accepted_source": {
+        "decision_id": "DEC-OP-WARN-1142-010-ACCEPT-20261106-001",
+        "accepted_html_sha256": "65e7427faa3cac72f199a1deda9790e38de50e6d79d91fd5aeb6dbc2c6ffe188",
+        "analysis_artifact_id": "ve-cns-fire-warn-1142",
+        "analysis_version": "0.1.0",
+        "document_revision": "0.1.0"
+      }
+    },
+    {
+      "source_path": "/Users/ekaterinasilaeva/Encr_PRGRES/VE_анализ_этап9_техводоснабжение_2026-10-18/ve_analysis/cns_fire_infra_1143_20261114/VE_1.1.4.3_0.1.0.html",
+      "package_path": "accepted/1.1.4.3.html",
+      "original_sha256": "fd935cd80e853d997b32ace3d59528833e467a0096fbf5a294758f0f536c0c8e",
+      "packaged_sha256": "f04da5af018a7e0acdcaaf4c8666e1f17c7a891f22833c2455c3f50f3edf72c7",
+      "original_bytes": 160828,
+      "packaged_bytes": 158693,
+      "kind": "accepted_or_sample_html",
+      "rewritten_local_links": 16,
+      "accepted_source": {
+        "decision_id": "DEC-OP-CNS-FIRE-INFRA-010-FINAL-ACCEPT-20261115-001",
+        "accepted_html_sha256": "fd935cd80e853d997b32ace3d59528833e467a0096fbf5a294758f0f536c0c8e",
+        "analysis_artifact_id": "ve-cns-fire-infra-1143",
+        "analysis_version": "0.1.0",
+        "document_revision": "0.1.0"
+      }
+    },
+    {
+      "source_path": "/Users/ekaterinasilaeva/Encr_PRGRES/VE_анализ_этап9_техводоснабжение_2026-10-18/ve_analysis/cns_foundation_115_20261114/VE_1.1.5_0.1.0.html",
+      "package_path": "accepted/1.1.5.html",
+      "original_sha256": "d568d156ca349bd2d0029dc3350bebcb90ec658fffd6f747d485418304b81fcf",
+      "packaged_sha256": "7ab6dbe553c643f7f093ec5e2e2887eca4422db02dba876e0fdf3b75c56f3a28",
+      "original_bytes": 79418,
+      "packaged_bytes": 79092,
+      "kind": "accepted_or_sample_html",
+      "rewritten_local_links": 5,
+      "accepted_source": {
+        "decision_id": "DEC-OP-CNS-FOUNDATION-010-FINAL-ACCEPT-20261115-001",
+        "accepted_html_sha256": "d568d156ca349bd2d0029dc3350bebcb90ec658fffd6f747d485418304b81fcf",
+        "analysis_artifact_id": "ve-cns-foundation-115",
+        "analysis_version": "0.1.0",
+        "document_revision": "0.1.0"
+      }
+    },
+    {
+      "source_path": "/Users/ekaterinasilaeva/Encr_PRGRES/VE_анализ_этап9_техводоснабжение_2026-10-18/ve_analysis/cns_roof_guard_116_20261106/editorial_v2137_20261109/ve_element_0.1.1.html",
+      "package_path": "accepted/1.1.6.html",
+      "original_sha256": "acd9e71782d921558029deef9b8f790864ce611f58ec569c36c4d4cc1185bf8c",
+      "packaged_sha256": "9b6145fb252a716376af22605ca41ddbd976c34e2b72ccda5f66bc25bbb735d8",
+      "original_bytes": 95160,
+      "packaged_bytes": 93579,
+      "kind": "accepted_or_sample_html",
+      "rewritten_local_links": 14,
+      "accepted_source": {
+        "decision_id": "DEC-OP-CNS-ROOF116-FINAL-ACCEPT-20261109-001",
+        "accepted_html_sha256": "acd9e71782d921558029deef9b8f790864ce611f58ec569c36c4d4cc1185bf8c",
+        "analysis_artifact_id": "ve-cns-roof-guard-116",
+        "analysis_version": "0.1.0",
+        "document_revision": "0.1.1"
+      }
+    },
+    {
+      "source_path": "/Users/ekaterinasilaeva/Encr_PRGRES/VE_анализ_этап9_техводоснабжение_2026-10-18/ve_analysis/cns_drainage_117_20261109/ve_element_0.1.0.html",
+      "package_path": "accepted/1.1.7.html",
+      "original_sha256": "5cf7fd44422fd04bc6b9001b71f88c8ff60168dd3a6f3843f1775c0157a10098",
+      "packaged_sha256": "41f366c46564b85a94beeb778aa99fbec70e91452d926f354046638272d8b341",
+      "original_bytes": 57217,
+      "packaged_bytes": 56383,
+      "kind": "accepted_or_sample_html",
+      "rewritten_local_links": 6,
+      "accepted_source": {
+        "decision_id": "DEC-OP-CNS-DRAINAGE-117-FINAL-ACCEPT-20261110-001",
+        "accepted_html_sha256": "5cf7fd44422fd04bc6b9001b71f88c8ff60168dd3a6f3843f1775c0157a10098",
+        "analysis_artifact_id": "ve-cns-drainage-117",
+        "analysis_version": "0.1.2",
+        "document_revision": "0.1.0"
+      }
+    },
+    {
+      "source_path": "/Users/ekaterinasilaeva/Encr_PRGRES/VE_анализ_этап9_техводоснабжение_2026-10-18/ve_analysis/cns_antiicing_118_20261110/ve_element_0.1.1.html",
+      "package_path": "accepted/1.1.8.html",
+      "original_sha256": "ace7e2ceb6c3f0304acb9567e3049e9eb6c5871019175c6d718c2edea69fdaa6",
+      "packaged_sha256": "79fce74ae2819ae29cedc8b0aa174d1c3f9b097e7371a40c5fdbc6a6004ef7e1",
+      "original_bytes": 38007,
+      "packaged_bytes": 37426,
+      "kind": "accepted_or_sample_html",
+      "rewritten_local_links": 5,
+      "accepted_source": {
+        "decision_id": "DEC-OP-CNS-ANTIICING-118-FINAL-ACCEPT-20261110-001",
+        "accepted_html_sha256": "ace7e2ceb6c3f0304acb9567e3049e9eb6c5871019175c6d718c2edea69fdaa6",
+        "analysis_artifact_id": "ve-cns-antiicing-118",
+        "analysis_version": "0.1.1",
+        "document_revision": "0.1.1"
+      }
+    },
+    {
+      "source_path": "/Users/ekaterinasilaeva/Encr_PRGRES/VE_анализ_этап9_техводоснабжение_2026-10-18/ve_analysis/bns1_pumps_1211_20261110/ve_element_0.1.4.html",
+      "package_path": "accepted/1.2.1.1.html",
+      "original_sha256": "10def72336071318bb43448aeb134e053b4fd39249faeb9e9e107149c3e7d472",
+      "packaged_sha256": "804572f1cce83adb6930e897b8f2eadcc49f40f16cbdc48c88c7410058fb474a",
+      "original_bytes": 85878,
+      "packaged_bytes": 84341,
+      "kind": "accepted_or_sample_html",
+      "rewritten_local_links": 12,
+      "accepted_source": {
+        "decision_id": "DEC-OP-BNS1-GR-PUMPS-1211-FINAL-ACCEPT-20261112-001",
+        "accepted_html_sha256": "10def72336071318bb43448aeb134e053b4fd39249faeb9e9e107149c3e7d472",
+        "analysis_artifact_id": "ve-bns1-gr-pumps-1211",
+        "analysis_version": "0.1.4",
+        "document_revision": "0.1.4"
+      }
+    },
+    {
+      "source_path": "/Users/ekaterinasilaeva/Encr_PRGRES/VE_анализ_этап9_техводоснабжение_2026-10-18/ve_analysis/bns1_screens_1212_20261115/VE_1.2.1.2_0.1.0.html",
+      "package_path": "accepted/1.2.1.2.html",
+      "original_sha256": "2d71991dad753a1f95783f00f1bc787577a66a7680670c8b1de720a86acabced",
+      "packaged_sha256": "51c18ad602383a14aaa7be5f76930109ddb2c1b73e7358677d3075bf80c05722",
+      "original_bytes": 85039,
+      "packaged_bytes": 83605,
+      "kind": "accepted_or_sample_html",
+      "rewritten_local_links": 11,
+      "accepted_source": {
+        "decision_id": "DEC-OP-BNS1-GR-SCREENS-010-FINAL-ACCEPT-20261116-001",
+        "accepted_html_sha256": "2d71991dad753a1f95783f00f1bc787577a66a7680670c8b1de720a86acabced",
+        "analysis_artifact_id": "ve-bns1-gr-screens-1212",
+        "analysis_version": "0.1.0",
+        "document_revision": "0.1.0"
+      }
+    },
+    {
+      "source_path": "/Users/ekaterinasilaeva/Encr_PRGRES/VE_анализ_этап9_техводоснабжение_2026-10-18/ve_analysis/bns1_logistics_1213_20261115/VE_1.2.1.3_0.1.0.html",
+      "package_path": "accepted/1.2.1.3.html",
+      "original_sha256": "893691252a0eb3a6201ac37403d8a61723565b0ed32ea60ee2121d957f56f178",
+      "packaged_sha256": "ffa8760cf3ae5643fe46fbd996f12bbe87a8d70f832afc1d099e24a78dfa459c",
+      "original_bytes": 64720,
+      "packaged_bytes": 63596,
+      "kind": "accepted_or_sample_html",
+      "rewritten_local_links": 8,
+      "accepted_source": {
+        "decision_id": "DEC-OP-BNS1-GR-LOGISTICS-010-FINAL-ACCEPT-20261116-001",
+        "accepted_html_sha256": "893691252a0eb3a6201ac37403d8a61723565b0ed32ea60ee2121d957f56f178",
+        "analysis_artifact_id": "ve-bns1-gr-logistics-1213",
+        "analysis_version": "0.1.0",
+        "document_revision": "0.1.0"
+      }
+    },
+    {
+      "source_path": "/Users/ekaterinasilaeva/Encr_PRGRES/VE_анализ_этап9_техводоснабжение_2026-10-18/ve_analysis/bns1_hv_1221_20261115/VE_1.2.2.1_0.1.2.html",
+      "package_path": "accepted/1.2.2.1.html",
+      "original_sha256": "2b17f6f2d0d8e1065908efdd36f65470998662bd5ce502b568cfbac92e226767",
+      "packaged_sha256": "c772d97c83acc3a6278d0f144e6460361149804c7e25309aeb39c2963927065b",
+      "original_bytes": 73048,
+      "packaged_bytes": 71931,
+      "kind": "accepted_or_sample_html",
+      "rewritten_local_links": 8,
+      "accepted_source": {
+        "decision_id": "DEC-OP-BNS1-ET-HV-012-FINAL-ACCEPT-20261116-001",
+        "accepted_html_sha256": "2b17f6f2d0d8e1065908efdd36f65470998662bd5ce502b568cfbac92e226767",
+        "analysis_artifact_id": "ve-bns1-et-hv-1221",
+        "analysis_version": "0.1.2",
+        "document_revision": "0.1.2"
+      }
+    },
+    {
+      "source_path": "/Users/ekaterinasilaeva/Encr_PRGRES/VE_анализ_этап9_техводоснабжение_2026-10-18/ve_analysis/bns1_lv_1222_20261116/VE_1.2.2.2_0.1.1.html",
+      "package_path": "accepted/1.2.2.2.html",
+      "original_sha256": "4e4a277643d79c04e5c228f7712b04d0ed5a774bd2c2f495bf29a89b4d62b70d",
+      "packaged_sha256": "fc8b8ca0b953b5490b115b70e4435317bc368b91e83e08ff163e63a88e56f2ae",
+      "original_bytes": 120828,
+      "packaged_bytes": 119940,
+      "kind": "accepted_or_sample_html",
+      "rewritten_local_links": 7,
+      "accepted_source": {
+        "decision_id": "DEC-OP-BNS1-ET-LV-011-FINAL-ACCEPT-20261117-001",
+        "accepted_html_sha256": "4e4a277643d79c04e5c228f7712b04d0ed5a774bd2c2f495bf29a89b4d62b70d",
+        "analysis_artifact_id": "ve-bns1-et-lv-1222",
+        "analysis_version": "0.1.1",
+        "document_revision": "0.1.1"
+      }
+    },
+    {
+      "source_path": "/Users/ekaterinasilaeva/Encr_PRGRES/VE_анализ_этап9_техводоснабжение_2026-10-18/ve_analysis/bns1_routes_1223_20261116/VE_1.2.2.3_0.1.1.html",
+      "package_path": "accepted/1.2.2.3.html",
+      "original_sha256": "3c0a7c2260a855e5291f2c8199c25d5912fc4a0cc87d94de637dcf0f0284903d",
+      "packaged_sha256": "ecec34eb180fb06daa93ee484f1e21d22d94967c81faf94462989c04e7f07470",
+      "original_bytes": 165288,
+      "packaged_bytes": 164662,
+      "kind": "accepted_or_sample_html",
+      "rewritten_local_links": 5,
+      "accepted_source": {
+        "decision_id": "DEC-OP-BNS1-ET-ROUTES-011-FINAL-ACCEPT-20261117-001",
+        "accepted_html_sha256": "3c0a7c2260a855e5291f2c8199c25d5912fc4a0cc87d94de637dcf0f0284903d",
+        "analysis_artifact_id": "ve-bns1-et-routes-1223",
+        "analysis_version": "0.1.1",
+        "document_revision": "0.1.1"
+      }
+    },
+    {
+      "source_path": "/Users/ekaterinasilaeva/Encr_PRGRES/VE_анализ_этап9_техводоснабжение_2026-10-18/ve_analysis/bns1_demolition_1224_20261116/VE_1.2.2.4_0.1.1.html",
+      "package_path": "accepted/1.2.2.4.html",
+      "original_sha256": "7a53ea208f93740730af04772d195139722a95c2842f15d5d5c42c229a04906b",
+      "packaged_sha256": "34494c3af73f721aa70d9f442ac826c1e2313458cff53f27838f7951e55ad812",
+      "original_bytes": 55731,
+      "packaged_bytes": 55036,
+      "kind": "accepted_or_sample_html",
+      "rewritten_local_links": 5,
+      "accepted_source": {
+        "decision_id": "DEC-OP-BNS1-ET-DEMOLITION-011-FINAL-ACCEPT-20261117-001",
+        "accepted_html_sha256": "7a53ea208f93740730af04772d195139722a95c2842f15d5d5c42c229a04906b",
+        "analysis_artifact_id": "ve-bns1-et-demolition-1224",
+        "analysis_version": "0.1.1",
+        "document_revision": "0.1.1"
+      }
+    },
+    {
+      "source_path": "/Users/ekaterinasilaeva/Encr_PRGRES/VE_анализ_этап9_техводоснабжение_2026-10-18/ve_analysis/bns1_earthing_1225_20261116/VE_1.2.2.5_0.1.1.html",
+      "package_path": "accepted/1.2.2.5.html",
+      "original_sha256": "8579b3f20df8061f9b3c2b47d18579815d8525aa74ac50e72cec383198035022",
+      "packaged_sha256": "24b83fce4c188522917d5f8f97bee64e55bd3b8ae1b4105d96b9f3a4bbe868b5",
+      "original_bytes": 77358,
+      "packaged_bytes": 76664,
+      "kind": "accepted_or_sample_html",
+      "rewritten_local_links": 5,
+      "accepted_source": {
+        "decision_id": "DEC-OP-BNS1-ET-EARTHING-011-FINAL-ACCEPT-20261117-001",
+        "accepted_html_sha256": "8579b3f20df8061f9b3c2b47d18579815d8525aa74ac50e72cec383198035022",
+        "analysis_artifact_id": "ve-bns1-et-earthing-1225",
+        "analysis_version": "0.1.1",
+        "document_revision": "0.1.1"
+      }
+    },
+    {
+      "source_path": "/Users/ekaterinasilaeva/Encr_PRGRES/VE_анализ_этап9_техводоснабжение_2026-10-18/ve_analysis/bns1_et_logistics_1226_20261117/VE_1.2.2.6_0.1.0.html",
+      "package_path": "accepted/1.2.2.6.html",
+      "original_sha256": "5b48c3e4a6e42c936091b441add1e6b800011c7e6d0924927ca525fad04183f8",
+      "packaged_sha256": "bcddb7df81aa0f7333b98cb79c4b68f55c22eaccab49397bf4403e7bb655c301",
+      "original_bytes": 48784,
+      "packaged_bytes": 47919,
+      "kind": "accepted_or_sample_html",
+      "rewritten_local_links": 6,
+      "accepted_source": {
+        "decision_id": "DEC-OP-BNS1-ET-LOGISTICS-010-FINAL-ACCEPT-20261117-001",
+        "accepted_html_sha256": "5b48c3e4a6e42c936091b441add1e6b800011c7e6d0924927ca525fad04183f8",
+        "analysis_artifact_id": "ve-bns1-et-logistics-1226",
+        "analysis_version": "0.1.0",
+        "document_revision": "0.1.0"
+      }
+    },
+    {
+      "source_path": "/Users/ekaterinasilaeva/Encr_PRGRES/VE_анализ_этап9_техводоснабжение_2026-10-18/ve_analysis/bns1_et_controls_demolition_1227_20261117/VE_1.2.2.7_0.1.0.html",
+      "package_path": "accepted/1.2.2.7.html",
+      "original_sha256": "035dbd667a5d0b11eee82a4071608d01b4a35dca84fe788c541a00a6672be40f",
+      "packaged_sha256": "26656d0fa8372110ccbc094f3ada9d50c07a075376d9a974f2fc92da4f527fc9",
+      "original_bytes": 78669,
+      "packaged_bytes": 77458,
+      "kind": "accepted_or_sample_html",
+      "rewritten_local_links": 8,
+      "accepted_source": {
+        "decision_id": "DEC-OP-BNS1-ET-CONTROL-INTERFACE-010-FINAL-ACCEPT-20261117-001",
+        "accepted_html_sha256": "035dbd667a5d0b11eee82a4071608d01b4a35dca84fe788c541a00a6672be40f",
+        "analysis_artifact_id": "ve-bns1-et-control-interface-1227",
+        "analysis_version": "0.1.0",
+        "document_revision": "0.1.0"
+      }
+    },
+    {
+      "source_path": "/Users/ekaterinasilaeva/Codex/VE-Agent/outputs/diagnostics/2026-11-03_output_readability_review/worker_comparison/editorial/final_scope_fix/cns-earthing.html",
+      "package_path": "documents/file-001.html",
+      "original_sha256": "04186e732fc394816ac0643fc5ddf3d4c1ac6f70623cc62ba2aebb5e09ea6814",
+      "packaged_sha256": "7bf4300d9f0cd817c50d3f00db27409315eb01c73406e5fcb882e0005c077a79",
+      "original_bytes": 114083,
+      "packaged_bytes": 113967,
+      "kind": "linked_navigation_document",
+      "rewritten_local_links": 1
+    },
+    {
+      "source_path": "/Users/ekaterinasilaeva/Codex/VE-Agent/outputs/diagnostics/2026-11-03_output_readability_review/worker_comparison/editorial/final_scope_fix/cns-hv.html",
+      "package_path": "documents/file-002.html",
+      "original_sha256": "4ce47a888d7743025cdcfcfd12c75fb5a45e4f2e748d9f8567de6c983efc7f02",
+      "packaged_sha256": "f1d584b60ea0aad452e7be6f2167dc0a34083ece9ed375999ad976f9a5943f80",
+      "original_bytes": 134505,
+      "packaged_bytes": 133471,
+      "kind": "linked_navigation_document",
+      "rewritten_local_links": 7
+    },
+    {
+      "source_path": "/Users/ekaterinasilaeva/Codex/VE-Agent/outputs/diagnostics/2026-11-03_output_readability_review/worker_comparison/editorial/final_scope_fix/cns-lv.html",
+      "package_path": "documents/file-003.html",
+      "original_sha256": "224dc2283e1be255e75a4b1bc1ec6286b5529c28f807b45ca7f86433d28f5e80",
+      "packaged_sha256": "9d3fe25e9914bd1783fc79f07813c77a9c7dd1f8c2b850736385e7e97150be11",
+      "original_bytes": 93126,
+      "packaged_bytes": 93010,
+      "kind": "linked_navigation_document",
+      "rewritten_local_links": 1
+    },
+    {
+      "source_path": "/Users/ekaterinasilaeva/Codex/VE-Agent/outputs/diagnostics/2026-11-03_output_readability_review/worker_comparison/editorial/final_scope_fix/cns-screen.html",
+      "package_path": "documents/file-004.html",
+      "original_sha256": "4615157aff3320283e4e3a3ec2245ae46aa0845325cbadb57e94a2059c1452c3",
+      "packaged_sha256": "1caff9f85026f259bd70424d8e002746d79aae0d935f641215292fa53d967f4a",
+      "original_bytes": 94989,
+      "packaged_bytes": 92606,
+      "kind": "linked_navigation_document",
+      "rewritten_local_links": 15
+    },
+    {
+      "source_path": "/Users/ekaterinasilaeva/Codex/VE-Agent/outputs/diagnostics/2026-11-06_cns_fire_warn_1142/component/COST_LEVER5_ACTUAL_PROOF_R2.json",
+      "package_path": "documents/file-005.json",
+      "original_sha256": "60c0185eb8cd8e1042eb7d6778a21ba780a1b8f0a617ed31f0487eeb1cc48446",
+      "packaged_sha256": "60c0185eb8cd8e1042eb7d6778a21ba780a1b8f0a617ed31f0487eeb1cc48446",
+      "original_bytes": 5323,
+      "packaged_bytes": 5323,
+      "kind": "linked_other_local",
+      "rewritten_local_links": 0
+    },
+    {
+      "source_path": "/Users/ekaterinasilaeva/Codex/VE-Agent/outputs/diagnostics/2026-11-06_cns_fire_warn_1142/component/PROJECT_SOURCE_PROOF.json",
+      "package_path": "documents/file-006.json",
+      "original_sha256": "e51cdbff924724e37aabc01db0f74958085192bfedbf452e74b4569388d587a8",
+      "packaged_sha256": "e51cdbff924724e37aabc01db0f74958085192bfedbf452e74b4569388d587a8",
+      "original_bytes": 16392,
+      "packaged_bytes": 16392,
+      "kind": "linked_other_local",
+      "rewritten_local_links": 0
+    },
+    {
+      "source_path": "/Users/ekaterinasilaeva/Codex/VE-Agent/outputs/diagnostics/2026-11-06_cns_roof_guard_116/worker/technical/gost25772_2025_full_stroyinf.pdf",
+      "package_path": "documents/file-007.pdf",
+      "original_sha256": "f2f6563efa69b7601e455d82bae8a17f8b38e1e2cf9a41eea7d15098b910e81e",
+      "packaged_sha256": "f2f6563efa69b7601e455d82bae8a17f8b38e1e2cf9a41eea7d15098b910e81e",
+      "original_bytes": 7429437,
+      "packaged_bytes": 7429437,
+      "kind": "local_normative_evidence",
+      "rewritten_local_links": 0
+    },
+    {
+      "source_path": "/Users/ekaterinasilaeva/Codex/VE-Agent/outputs/diagnostics/2026-11-06_cns_roof_guard_116/worker/technical/gost_en795_alpindustria.pdf",
+      "package_path": "documents/file-008.pdf",
+      "original_sha256": "dd3169c461dba91285408377390fb5a0d4c722e6601ff78b47cba55b533146cb",
+      "packaged_sha256": "dd3169c461dba91285408377390fb5a0d4c722e6601ff78b47cba55b533146cb",
+      "original_bytes": 1564017,
+      "packaged_bytes": 1564017,
+      "kind": "local_normative_evidence",
+      "rewritten_local_links": 0
+    },
+    {
+      "source_path": "/Users/ekaterinasilaeva/Codex/VE-Agent/outputs/diagnostics/2026-11-06_cns_roof_guard_116/worker/technical/gostr53254_borge.pdf",
+      "package_path": "documents/file-009.pdf",
+      "original_sha256": "06533aa6b1dcdea535a03f456c50e00e88fe8a6ab06b18b1fad3e533a9b55475",
+      "packaged_sha256": "06533aa6b1dcdea535a03f456c50e00e88fe8a6ab06b18b1fad3e533a9b55475",
+      "original_bytes": 997926,
+      "packaged_bytes": 997926,
+      "kind": "local_normative_evidence",
+      "rewritten_local_links": 0
+    },
+    {
+      "source_path": "/Users/ekaterinasilaeva/Codex/VE-Agent/outputs/diagnostics/2026-11-06_cns_roof_guard_116/worker/technical/sp20_fkr_changes1_6.pdf",
+      "package_path": "documents/file-010.pdf",
+      "original_sha256": "2cf21ea861c476d7637f7e975890b3f9c22c2702eed5617ebd53b5d05ade2b36",
+      "packaged_sha256": "2cf21ea861c476d7637f7e975890b3f9c22c2702eed5617ebd53b5d05ade2b36",
+      "original_bytes": 25263867,
+      "packaged_bytes": 25263867,
+      "kind": "local_normative_evidence",
+      "rewritten_local_links": 0
+    },
+    {
+      "source_path": "/Users/ekaterinasilaeva/Codex/VE-Agent/outputs/diagnostics/2026-11-06_cns_roof_guard_116/worker/technical/sp4_fkr_changes1_4.pdf",
+      "package_path": "documents/file-011.pdf",
+      "original_sha256": "cad09dd49d90a518a29421ed2825636896e06be9cce13bad4efe7176ed8c7fae",
+      "packaged_sha256": "cad09dd49d90a518a29421ed2825636896e06be9cce13bad4efe7176ed8c7fae",
+      "original_bytes": 1547112,
+      "packaged_bytes": 1547112,
+      "kind": "local_normative_evidence",
+      "rewritten_local_links": 0
+    },
+    {
+      "source_path": "/Users/ekaterinasilaeva/Codex/VE-Agent/outputs/diagnostics/2026-11-13_cns_next_three_v40/et_logistics/COST_CONTROL_DETAILS_005.html",
+      "package_path": "documents/file-012.html",
+      "original_sha256": "7ab050085afe6a22775639460ed9aaf4d3fb7d401ecb884b749e16cbd615971b",
+      "packaged_sha256": "8d3c04eb149f5ac4737b5c5124bdbb094f01549b4e1e908e5aaa80c355ae6825",
+      "original_bytes": 18209,
+      "packaged_bytes": 12401,
+      "kind": "linked_navigation_document",
+      "rewritten_local_links": 31
+    },
+    {
+      "source_path": "/Users/ekaterinasilaeva/Codex/VE-Agent/outputs/diagnostics/2026-11-13_cns_next_three_v40/instrument_links/COST_CONTROL_DETAILS_005.html",
+      "package_path": "documents/file-013.html",
+      "original_sha256": "f5a16c090f9faec4a3667815911d7d48c626e2e90681c49f2cdb135f804459b2",
+      "packaged_sha256": "e1af7f857793b050007e82c7606f8ee128126759e1cbe7833ce0692839b7fa40",
+      "original_bytes": 72235,
+      "packaged_bytes": 54973,
+      "kind": "linked_navigation_document",
+      "rewritten_local_links": 89
+    },
+    {
+      "source_path": "/Users/ekaterinasilaeva/Codex/VE-Agent/outputs/diagnostics/2026-11-13_cns_next_three_v40/instrument_panel/COST_CONTROL_DETAILS_005.html",
+      "package_path": "documents/file-014.html",
+      "original_sha256": "db12813079347d0984dc66fb76654ca3f8aa861ff036df0df72e185a70d62049",
+      "packaged_sha256": "b311de245eccaf19c173998bf33af430008c5d2976c41e0be9901034cf5e62c1",
+      "original_bytes": 24485,
+      "packaged_bytes": 16367,
+      "kind": "linked_navigation_document",
+      "rewritten_local_links": 42
+    },
+    {
+      "source_path": "/Users/ekaterinasilaeva/Codex/VE-Agent/outputs/diagnostics/2026-11-14_cns_final_two_v41/shared/fire_infra_COST_CONTROL_DETAILS_003.html",
+      "package_path": "documents/file-015.html",
+      "original_sha256": "ad67b19af7e27ec971cf45a507fa02bcc088ccbeadf8ac4f36714f1a9552de45",
+      "packaged_sha256": "d3f420587804038c05488b574e4af28d973c44bc50858072170bb15674beb7c6",
+      "original_bytes": 101846,
+      "packaged_bytes": 73405,
+      "kind": "linked_navigation_document",
+      "rewritten_local_links": 139
+    },
+    {
+      "source_path": "/Users/ekaterinasilaeva/Codex/VE-Agent/outputs/diagnostics/2026-11-14_cns_final_two_v41/shared/foundation_COST_CONTROL_DETAILS_003.html",
+      "package_path": "documents/file-016.html",
+      "original_sha256": "29808b7c02e26dc5a9062309dfd33a2c6f3cef53795d556ddae31a4910dac73b",
+      "packaged_sha256": "c6abc1de5f4fdc5fd0c192a13f6e982712f1fda1b41ec00b85bc6a8f15a7be44",
+      "original_bytes": 5274,
+      "packaged_bytes": 4983,
+      "kind": "linked_navigation_document",
+      "rewritten_local_links": 3
+    },
+    {
+      "source_path": "/Users/ekaterinasilaeva/Codex/VE-Agent/sources/05_ВНТП_нормы_ТЭС.md",
+      "package_path": "documents/file-020.md",
+      "original_sha256": "5ecddb56fa76e7b58b3e27d88b65cee5090121018060bb622d0f7c9ff6f43fea",
+      "packaged_sha256": "5ecddb56fa76e7b58b3e27d88b65cee5090121018060bb622d0f7c9ff6f43fea",
+      "original_bytes": 442893,
+      "packaged_bytes": 442893,
+      "kind": "local_normative_evidence",
+      "rewritten_local_links": 0
+    },
+    {
+      "source_path": "/Users/ekaterinasilaeva/Codex/VE-Agent/sources/11_База_выученных_уроков.md",
+      "package_path": "documents/file-021.md",
+      "original_sha256": "05d7133e0d08bc078a4d0cb81944cd869449bfdf3aac3a9b96c4fdac2055d037",
+      "packaged_sha256": "05d7133e0d08bc078a4d0cb81944cd869449bfdf3aac3a9b96c4fdac2055d037",
+      "original_bytes": 3095,
+      "packaged_bytes": 3095,
+      "kind": "local_normative_evidence",
+      "rewritten_local_links": 0
+    },
+    {
+      "source_path": "/Users/ekaterinasilaeva/Encr_PRGRES/VE_анализ_этап9_техводоснабжение_2026-10-18/ve_analysis/cns_screen_filtration_rework_20261028/operator_comments_20261028.md",
+      "package_path": "documents/file-052.md",
+      "original_sha256": "305276f6b746d679a5ba6e49dfa51ea09e954ed344b73d6650d272f4702cd33d",
+      "packaged_sha256": "305276f6b746d679a5ba6e49dfa51ea09e954ed344b73d6650d272f4702cd33d",
+      "original_bytes": 14462,
+      "packaged_bytes": 14462,
+      "kind": "linked_navigation_document",
+      "rewritten_local_links": 0
+    },
+    {
+      "source_path": "/Users/ekaterinasilaeva/Encr_PRGRES/VE_анализ_этап9_техводоснабжение_2026-10-18/wbs/source_bound_r11_20261025/v013/table3_details.md",
+      "package_path": "documents/file-056.md",
+      "original_sha256": "5f712d6d72a87e872f668fade44304673af01b471147c0847a691b076ffb16c0",
+      "packaged_sha256": "5f712d6d72a87e872f668fade44304673af01b471147c0847a691b076ffb16c0",
+      "original_bytes": 3035321,
+      "packaged_bytes": 3035321,
+      "kind": "linked_navigation_document",
+      "rewritten_local_links": 0
+    },
+    {
+      "source_path": "/Users/ekaterinasilaeva/Encr_PRGRES/ИД/ВОР_СТВ.xlsx",
+      "package_path": "documents/file-058.xlsx",
+      "original_sha256": "f77ad784a4e642117b7f369d1cb3077dd2da4c5b6cef056c0baf90724eafbac2",
+      "packaged_sha256": "f77ad784a4e642117b7f369d1cb3077dd2da4c5b6cef056c0baf90724eafbac2",
+      "original_bytes": 278048,
+      "packaged_bytes": 278048,
+      "kind": "project_source",
+      "rewritten_local_links": 0
+    },
+    {
+      "source_path": "/Users/ekaterinasilaeva/Encr_PRGRES/ИД/ПД/!PMG03P.00-АР1 (PMG03P.0003.AR.TD01)_РазделПЗ 1_zam8_r13.docx",
+      "package_path": "documents/file-059.docx",
+      "original_sha256": "300c3ef1b05ce3fc8c1335c2130c80ac997dc3e20075063ac31e4ded71ae879e",
+      "packaged_sha256": "300c3ef1b05ce3fc8c1335c2130c80ac997dc3e20075063ac31e4ded71ae879e",
+      "original_bytes": 100717,
+      "packaged_bytes": 100717,
+      "kind": "project_source",
+      "rewritten_local_links": 0
+    },
+    {
+      "source_path": "/Users/ekaterinasilaeva/Encr_PRGRES/ИД/ПД/!PMG03P.00-ИОС1.3 (PMG03P.0005.EP.TD03)_РазделПЗ 1_zam3_r06.docx",
+      "package_path": "documents/file-060.docx",
+      "original_sha256": "11bf88f925cde385dd4a7ccbf7f5bc9cd9cd1105b9476e1b6531d0bbec13ce60",
+      "packaged_sha256": "11bf88f925cde385dd4a7ccbf7f5bc9cd9cd1105b9476e1b6531d0bbec13ce60",
+      "original_bytes": 84225,
+      "packaged_bytes": 84225,
+      "kind": "project_source",
+      "rewritten_local_links": 0
+    },
+    {
+      "source_path": "/Users/ekaterinasilaeva/Encr_PRGRES/ИД/ПД/!PMG03P.00-ИОС7.1.3 (PMG03P.0005.TM.TD03)_РазделПЗ 1_zam4_r05.docx",
+      "package_path": "documents/file-061.docx",
+      "original_sha256": "a5ddac7ed06c47ab87af69e9029185e2f3102e21a6a52bb14a4b38b86f0291a1",
+      "packaged_sha256": "a5ddac7ed06c47ab87af69e9029185e2f3102e21a6a52bb14a4b38b86f0291a1",
+      "original_bytes": 62567,
+      "packaged_bytes": 62567,
+      "kind": "project_source",
+      "rewritten_local_links": 0
+    },
+    {
+      "source_path": "/Users/ekaterinasilaeva/Encr_PRGRES/ИД/ПД/!PMG03P.00-ИОС7.2.2 (PMG03P.0005.AK.TD02)_РазделПЗ 1_zam2_r04.docx",
+      "package_path": "documents/file-062.docx",
+      "original_sha256": "291d60282a4b67f18ce9db6a26aabf41dfd1a4f962194a62452964d2945aa4ec",
+      "packaged_sha256": "291d60282a4b67f18ce9db6a26aabf41dfd1a4f962194a62452964d2945aa4ec",
+      "original_bytes": 50753,
+      "packaged_bytes": 50753,
+      "kind": "project_source",
+      "rewritten_local_links": 0
+    },
+    {
+      "source_path": "/Users/ekaterinasilaeva/Encr_PRGRES/ИД/ПД/!PMG03P.00-ПБ1 (PMG03P.0009.PP.TD01)_РазделПЗ 1_zam7_r11.docx",
+      "package_path": "documents/file-063.docx",
+      "original_sha256": "00bffda7182cd7442b44dcc41496bee6c5f81dc93f567e6002eb618a0b8ba6f5",
+      "packaged_sha256": "00bffda7182cd7442b44dcc41496bee6c5f81dc93f567e6002eb618a0b8ba6f5",
+      "original_bytes": 1233688,
+      "packaged_bytes": 1233688,
+      "kind": "project_source",
+      "rewritten_local_links": 0
+    },
+    {
+      "source_path": "/Users/ekaterinasilaeva/Encr_PRGRES/ИД/ПД/!PMG03P.00-ПЗ (PMG03P.0001.PZ.TD01)_РазделПЗ 1_zam13_r18.docx",
+      "package_path": "documents/file-064.docx",
+      "original_sha256": "88194d3c6f707e410769b60cc3ce7091c5865e615f279953d58e55fee6faaca2",
+      "packaged_sha256": "88194d3c6f707e410769b60cc3ce7091c5865e615f279953d58e55fee6faaca2",
+      "original_bytes": 2929268,
+      "packaged_bytes": 2929268,
+      "kind": "project_source",
+      "rewritten_local_links": 0
+    },
+    {
+      "source_path": "/Users/ekaterinasilaeva/Encr_PRGRES/ИД/ПД/!PMG03P.00-ПОС1 (PMG03P.0006.QS.TD01)_РазделПЗ 1_zam11_r20.docx",
+      "package_path": "documents/file-065.docx",
+      "original_sha256": "2050d3adc1bc27575c796eea12e5a825edac6f6464873b5a08fbfc30eea8972e",
+      "packaged_sha256": "2050d3adc1bc27575c796eea12e5a825edac6f6464873b5a08fbfc30eea8972e",
+      "original_bytes": 2213724,
+      "packaged_bytes": 2213724,
+      "kind": "project_source",
+      "rewritten_local_links": 0
+    },
+    {
+      "source_path": "/Users/ekaterinasilaeva/Encr_PRGRES/ИД/ПД/PMG03P.00-КР1 (PMG03P.0004.AS.TD01)_РазделПЗ 1_zam8_r13.docx",
+      "package_path": "documents/file-066.docx",
+      "original_sha256": "52826230f1e61b519d94e7b621cec352ec347786226ce9a0eac5fb7457ba2bfb",
+      "packaged_sha256": "52826230f1e61b519d94e7b621cec352ec347786226ce9a0eac5fb7457ba2bfb",
+      "original_bytes": 201923,
+      "packaged_bytes": 201923,
+      "kind": "project_source",
+      "rewritten_local_links": 0
+    },
+    {
+      "source_path": "/Users/ekaterinasilaeva/Encr_PRGRES/ИД/ПД/PMG03P.00-СП (PMG03P.0000.SP.TD01)_РазделПЗ 1_zam12_r13.docx",
+      "package_path": "documents/file-067.docx",
+      "original_sha256": "2e3cc357aa5a57ace1d007feb401f59db36c8335bc6a8b0768dc8ab40ae8187b",
+      "packaged_sha256": "2e3cc357aa5a57ace1d007feb401f59db36c8335bc6a8b0768dc8ab40ae8187b",
+      "original_bytes": 39174,
+      "packaged_bytes": 39174,
+      "kind": "project_source",
+      "rewritten_local_links": 0
+    },
+    {
+      "source_path": "/Users/ekaterinasilaeva/Encr_PRGRES/ИД/Пояснительная_записка_ХХХ_YYY.pdf",
+      "package_path": "documents/file-068.pdf",
+      "original_sha256": "9e1006eaa3a3ab60e37e98d82e0ef2ee2cb307f9d5b55a24e58e06db83dbd6e3",
+      "packaged_sha256": "9e1006eaa3a3ab60e37e98d82e0ef2ee2cb307f9d5b55a24e58e06db83dbd6e3",
+      "original_bytes": 2079650,
+      "packaged_bytes": 2079650,
+      "kind": "project_source",
+      "rewritten_local_links": 0
+    },
+    {
+      "source_path": "/Users/ekaterinasilaeva/Encr_PRGRES/ИД/СД/ЛСР 2.058.2ЭТ.01.xlsx",
+      "package_path": "documents/file-069.xlsx",
+      "original_sha256": "caa95224af5b276a8c2d19797c6d55614db1a6063731b992de24ae234263704f",
+      "packaged_sha256": "caa95224af5b276a8c2d19797c6d55614db1a6063731b992de24ae234263704f",
+      "original_bytes": 83676,
+      "packaged_bytes": 83676,
+      "kind": "project_source",
+      "rewritten_local_links": 0
+    },
+    {
+      "source_path": "/Users/ekaterinasilaeva/Encr_PRGRES/ИД/СД/СД_СТВ_первоначальная.xlsx",
+      "package_path": "documents/file-070.xlsx",
+      "original_sha256": "194e73e16a7e61fe933343852344b247803eb089771449cb2256a423be9bb0d8",
+      "packaged_sha256": "194e73e16a7e61fe933343852344b247803eb089771449cb2256a423be9bb0d8",
+      "original_bytes": 682171,
+      "packaged_bytes": 682171,
+      "kind": "project_source",
+      "rewritten_local_links": 0
+    },
+    {
+      "source_path": "/Users/ekaterinasilaeva/Encr_PRGRES/ИД/СД/СД_СТВ_повторная экспертиза.xlsx",
+      "package_path": "documents/file-071.xlsx",
+      "original_sha256": "fb351f091ad9c4305eab5d1933afcffc0fef80e73b104c8f062374b3ed9a2820",
+      "packaged_sha256": "fb351f091ad9c4305eab5d1933afcffc0fef80e73b104c8f062374b3ed9a2820",
+      "original_bytes": 6635523,
+      "packaged_bytes": 6635523,
+      "kind": "project_source",
+      "rewritten_local_links": 0
+    },
+    {
+      "source_path": "/Users/ekaterinasilaeva/Encr_PRGRES/ИД/СД/Сверка.xlsx",
+      "package_path": "documents/file-072.xlsx",
+      "original_sha256": "c19a5c3c85e94c92722fcd50478a5fbbeb4da66cf8a00b679766468f9a47a4e2",
+      "packaged_sha256": "c19a5c3c85e94c92722fcd50478a5fbbeb4da66cf8a00b679766468f9a47a4e2",
+      "original_bytes": 39155,
+      "packaged_bytes": 39155,
+      "kind": "project_source",
+      "rewritten_local_links": 0
+    },
+    {
+      "source_path": "/Users/ekaterinasilaeva/Encr_PRGRES/ИД/ТТ СТВ/ТТ Врсетка_PMG03P.0005.TM.000.TM.TT92_1-12_r00.docx",
+      "package_path": "documents/file-073.docx",
+      "original_sha256": "a2ec0173384d2f13628380f3f17cb3cafedd6623951e51de148b0f7674007634",
+      "packaged_sha256": "a2ec0173384d2f13628380f3f17cb3cafedd6623951e51de148b0f7674007634",
+      "original_bytes": 1045777,
+      "packaged_bytes": 1045777,
+      "kind": "project_source",
+      "rewritten_local_links": 0
+    },
+    {
+      "source_path": "/Users/ekaterinasilaeva/Encr_PRGRES/ИД/ТТ СТВ/ТТ КРУ 6 ЦНС 2_PMG03P.00-ИOC1.3-056.ЭT.TT01 (PMG03P.0005.EP.056.ET.TT01)_1-11_r01.docx",
+      "package_path": "documents/file-074.docx",
+      "original_sha256": "c91221b06c705fb1dfd1f90d30cc1dcb237226c097f307c39c7ffd2cd679ebf3",
+      "packaged_sha256": "c91221b06c705fb1dfd1f90d30cc1dcb237226c097f307c39c7ffd2cd679ebf3",
+      "original_bytes": 53275,
+      "packaged_bytes": 53275,
+      "kind": "project_source",
+      "rewritten_local_links": 0
+    },
+    {
+      "source_path": "/Users/ekaterinasilaeva/Encr_PRGRES/ИД/ТТ СТВ/ТТ КРУ 6 ЦНС_img_PMG03P.0005.EP.058.ET.TT01_1-12_r02.pdf",
+      "package_path": "documents/file-075.pdf",
+      "original_sha256": "f24a943e008d39b750af4d299d4b8bd76083dd06322514cb9da6ae7325843a28",
+      "packaged_sha256": "f24a943e008d39b750af4d299d4b8bd76083dd06322514cb9da6ae7325843a28",
+      "original_bytes": 845916,
+      "packaged_bytes": 845916,
+      "kind": "project_source",
+      "rewritten_local_links": 0
+    },
+    {
+      "source_path": "/Users/ekaterinasilaeva/Encr_PRGRES/ИД/ТТ СТВ/ТТ ЦН_PMG03P.0005.TM.000.TM.TT50_1-13_r03.docx",
+      "package_path": "documents/file-076.docx",
+      "original_sha256": "ffe6a819c974ebca8b074fa1c3ec25a80a83906db0b1f85dafae3a448b333f6b",
+      "packaged_sha256": "ffe6a819c974ebca8b074fa1c3ec25a80a83906db0b1f85dafae3a448b333f6b",
+      "original_bytes": 9815514,
+      "packaged_bytes": 9815514,
+      "kind": "project_source",
+      "rewritten_local_links": 0
+    },
+    {
+      "source_path": "/Users/ekaterinasilaeva/Encr_PRGRES/ИД/Чертежи_АР_СТВ.pdf",
+      "package_path": "documents/file-077.pdf",
+      "original_sha256": "20e351f6e1518a758179466342355c3dad543d69f5a75fa593a7f7cddaea4020",
+      "packaged_sha256": "20e351f6e1518a758179466342355c3dad543d69f5a75fa593a7f7cddaea4020",
+      "original_bytes": 811995,
+      "packaged_bytes": 811995,
+      "kind": "project_source",
+      "rewritten_local_links": 0
+    },
+    {
+      "source_path": "/Users/ekaterinasilaeva/Encr_PRGRES/ИД/Чертежи_ЕР_СТВ.pdf",
+      "package_path": "documents/file-078.pdf",
+      "original_sha256": "457516fdfba795796f442463f30be7e1d4b58ceef8fefd03fad91d03cc606fd8",
+      "packaged_sha256": "457516fdfba795796f442463f30be7e1d4b58ceef8fefd03fad91d03cc606fd8",
+      "original_bytes": 3111885,
+      "packaged_bytes": 3111885,
+      "kind": "project_source",
+      "rewritten_local_links": 0
+    },
+    {
+      "source_path": "/Users/ekaterinasilaeva/Encr_PRGRES/ИД/Чертежи_ИОС_СТВ 2.pdf",
+      "package_path": "documents/file-079.pdf",
+      "original_sha256": "23c80931c012b822d230c4bd4408454c9b42dde937a15c3923e73e7e54c077b6",
+      "packaged_sha256": "23c80931c012b822d230c4bd4408454c9b42dde937a15c3923e73e7e54c077b6",
+      "original_bytes": 3167853,
+      "packaged_bytes": 3167853,
+      "kind": "project_source",
+      "rewritten_local_links": 0
+    },
+    {
+      "source_path": "/Users/ekaterinasilaeva/Encr_PRGRES/ИД/Чертежи_ИОС_СТВ.pdf",
+      "package_path": "documents/file-080.pdf",
+      "original_sha256": "23c80931c012b822d230c4bd4408454c9b42dde937a15c3923e73e7e54c077b6",
+      "packaged_sha256": "23c80931c012b822d230c4bd4408454c9b42dde937a15c3923e73e7e54c077b6",
+      "original_bytes": 3167853,
+      "packaged_bytes": 3167853,
+      "kind": "project_source",
+      "rewritten_local_links": 0
+    },
+    {
+      "source_path": "/Users/ekaterinasilaeva/Encr_PRGRES/ИД/Чертежи_КР_СТВ.pdf",
+      "package_path": "documents/file-081.pdf",
+      "original_sha256": "a2eb7a92c4cc5e3097ea8a0950677200c5c76b1d767e4b74c5c0d2d510b3b80d",
+      "packaged_sha256": "a2eb7a92c4cc5e3097ea8a0950677200c5c76b1d767e4b74c5c0d2d510b3b80d",
+      "original_bytes": 1339475,
+      "packaged_bytes": 1339475,
+      "kind": "project_source",
+      "rewritten_local_links": 0
+    },
+    {
+      "source_path": "/Users/ekaterinasilaeva/Codex/VE-Agent/outputs/diagnostics/2026-11-17_v2_1_44_operator_scope/report_form_revision/sample/index.html",
+      "package_path": "Итоговый отчет по VE-анализу.html",
+      "original_sha256": "3b9e0942495822a08eacaf78ea5abf2316bf68a3d49c3d2896551ca1e7db6020",
+      "packaged_sha256": "33b16539527f4968dd1980ff63f846b84df337d9de62fe127a5f36c6408e3d19",
+      "original_bytes": 42830,
+      "packaged_bytes": 34095,
+      "kind": "accepted_or_sample_html",
+      "rewritten_local_links": 35,
+      "rendering_source_ref": {
+        "path": "/Users/ekaterinasilaeva/Codex/VE-Agent/outputs/diagnostics/2026-11-17_v2_1_44_operator_scope/report_form_revision/revision_0.1.3/preview/index.html",
+        "sha256": "acf6f3d3ee83a8b36b6da5cbd42e505bac0dec411a895248912e11c4f8536ed1"
+      }
+    },
+    {
+      "source_path": "/Users/ekaterinasilaeva/Codex/VE-Agent/outputs/diagnostics/2026-11-17_v2_1_44_operator_scope/report_form_revision/sample/table-2-navigation.html",
+      "package_path": "table-2-navigation.html",
+      "original_sha256": "444a8d70c0f12d0763207f735d5198910e9dc9732cc73ad474eb883b0e8f1a46",
+      "packaged_sha256": "19a93d90c439cf48b3d8158e3be6d245355349f1754c5989a64f13d0e94c44c8",
+      "original_bytes": 455885,
+      "packaged_bytes": 449172,
+      "kind": "accepted_or_sample_html",
+      "rewritten_local_links": 28,
+      "rendering_source_ref": {
+        "path": "/Users/ekaterinasilaeva/Codex/VE-Agent/outputs/diagnostics/2026-11-17_v2_1_44_operator_scope/report_form_revision/revision_0.1.3/preview/table-2-navigation.html",
+        "sha256": "9cd2d845ef9dd79330c28973550717243484ead434000ffb71ace54d73f667ad"
+      }
+    },
+    {
+      "source_path": "/Users/ekaterinasilaeva/Codex/VE-Agent/outputs/diagnostics/2026-11-17_v2_1_44_operator_scope/report_form_revision/sample/table-4-summary.html",
+      "package_path": "table-4-summary.html",
+      "original_sha256": "386174a13766edb1a7879ea1c094f50142cb2ccb8e9d69efff55e58d2681a511",
+      "packaged_sha256": "b04a0471b964ace4ed0f5ce5dc91b57d46d3792f1a527ee395ca0f5801000c48",
+      "original_bytes": 128751,
+      "packaged_bytes": 137776,
+      "kind": "accepted_or_sample_html",
+      "rewritten_local_links": 131,
+      "rendering_source_ref": {
+        "path": "/Users/ekaterinasilaeva/Codex/VE-Agent/outputs/diagnostics/2026-11-17_v2_1_44_operator_scope/report_form_revision/revision_0.1.3/preview/table-4-summary.html",
+        "sha256": "a54ce75795dd084f8a9ebe872cc28a7f9a97a353bbc9de4eeeb02a042850eda0"
+      }
+    },
+    {
+      "source_path": "/Users/ekaterinasilaeva/Encr_PRGRES/VE_анализ_этап9_техводоснабжение_2026-10-18/data_preparation/bns_v2113_20261022/v2115_r3/source_correction068/content_map_0.6.8.html",
+      "package_path": "tables/source-content-map.html",
+      "original_sha256": "ac3aadd4ac3b94245d5f991f0a4ffaa95e00f2d425a9756832ff1ed19717960d",
+      "packaged_sha256": "7acf16aa753688173cac75c6838dde401b310d3497d7765ea26b78ab2f7f9892",
+      "original_bytes": 4462482,
+      "packaged_bytes": 4458954,
+      "kind": "accepted_or_sample_html",
+      "rewritten_local_links": 24,
+      "accepted_source": {
+        "decision_id": "BIND-TECH-DP068-TABLE2-20261023-001",
+        "accepted_html_sha256": "ac3aadd4ac3b94245d5f991f0a4ffaa95e00f2d425a9756832ff1ed19717960d",
+        "artifact_ref": "data_package:dp-001@0.6.8"
+      }
+    },
+    {
+      "source_path": "/Users/ekaterinasilaeva/Encr_PRGRES/VE_анализ_этап9_техводоснабжение_2026-10-18/data_preparation/bns_v2113_20261022/v2115_r3/source_correction068/table_2_0.6.8.html",
+      "package_path": "tables/table-2-accepted.html",
+      "original_sha256": "1056c427235a025a3888cee108505df1a5a76bb0087fd35dc1d1d436ff8a114b",
+      "packaged_sha256": "bdb188d8752b55f5479d925e19ae965441d61aec80a27f78cf1164e60e597209",
+      "original_bytes": 46838,
+      "packaged_bytes": 43310,
+      "kind": "accepted_or_sample_html",
+      "rewritten_local_links": 24,
+      "accepted_source": {
+        "decision_id": "BIND-TECH-DP068-TABLE2-20261023-001",
+        "accepted_html_sha256": "1056c427235a025a3888cee108505df1a5a76bb0087fd35dc1d1d436ff8a114b",
+        "artifact_ref": "data_package:dp-001@0.6.8"
+      }
+    },
+    {
+      "source_path": "/Users/ekaterinasilaeva/Encr_PRGRES/VE_анализ_этап9_техводоснабжение_2026-10-18/wbs/source_bound_r11_20261025/v013/table_3.html",
+      "package_path": "tables/table-3-accepted.html",
+      "original_sha256": "b7f9b572d89cdb074b28386c2a241887ac0b171751c5bb6a1eca41825e661ee9",
+      "packaged_sha256": "9efbf344b40e77d8838e93c9b2f22361e92ffbe81c82dd9f5bdd9f893a1610f6",
+      "original_bytes": 392109,
+      "packaged_bytes": 388588,
+      "kind": "accepted_or_sample_html",
+      "rewritten_local_links": 25,
+      "accepted_source": {
+        "decision_id": "DEC-OP-WBS013-FULL-ACCEPT-20261025-001",
+        "accepted_html_sha256": "b7f9b572d89cdb074b28386c2a241887ac0b171751c5bb6a1eca41825e661ee9",
+        "artifact_ref": "wbs_package:wbs-001@0.1.13"
+      }
+    }
+  ],
+  "additional_files": [
+    {
+      "package_path": "README.txt",
+      "packaged_sha256": "bd5ecfcc4bc12a820375ac9111ddcf4f175184c82c7ba7e6ab32bc21b9d62f45",
+      "packaged_bytes": 2022
+    },
+    {
+      "package_path": "provenance/real-run-binding.json",
+      "packaged_sha256": "0b147cc0630823e5369e95ae4c8995141179bd731a0403157149e0f57ad5902d",
+      "packaged_bytes": 2886
+    },
+    {
+      "package_path": "provenance/previous-form-binding.json",
+      "packaged_sha256": "728bae6f0ee2b09e91dd4d1df0160e283fcd88105e926c66ce0fde0051c7e3a9",
+      "packaged_bytes": 2572
+    },
+    {
+      "package_path": "provenance/real45-application-receipt.json",
+      "packaged_sha256": "1e5d7500ce87f9e78a120c4683e28456a5b798a848f7ed9102669a7369da90d4",
+      "packaged_bytes": 2623
+    },
+    {
+      "package_path": "provenance/independent-application-review.json",
+      "packaged_sha256": "d933b02c5d07f6e72223bc4f09fc2009352243a181fa71618990f9eb0bfff0cb",
+      "packaged_bytes": 4469
+    },
+    {
+      "package_path": "provenance/checkpoint-before-previous-materials.json.gz",
+      "packaged_sha256": "1aebc7cc50849f29a8734f43f0d0131947b91ae44d445f8eea7d33ffd9c9e361",
+      "packaged_bytes": 245075
+    },
+    {
+      "package_path": "provenance/previous-document-receipt.json",
+      "packaged_sha256": "16b54209afd7b77d50d2a43d14ed661be3329bc20b06a64c36461161fc4e23b7",
+      "packaged_bytes": 1391
+    },
+    {
+      "package_path": "provenance/previous-table4-receipt.json",
+      "packaged_sha256": "6655561cdfda4bd4a1f0eb0f59bfbfa70b569e7d82c9ac6428963942345077fc",
+      "packaged_bytes": 1096
+    },
+    {
+      "package_path": "real-run-provenance.html",
+      "packaged_sha256": "2267f8407736c6fe717fbc05bc928d44a9d13d74ab886699f709b3cbadf1b6ad",
+      "packaged_bytes": 2863
+    },
+    {
+      "package_path": "provenance/previous-package-manifest.json",
+      "packaged_sha256": "592b33de78c65ca4dee2948c801c8a418c4611a887b665f5c9f05daffa1e295b",
+      "packaged_bytes": 59484
+    }
+  ],
+  "local_source_count": 81,
+  "external_http_unique": 272,
+  "external_http_policy": "External web links require an internet connection and were not downloaded.",
+  "audit_ref": {
+    "path": "/Users/ekaterinasilaeva/Codex/VE-Agent/outputs/diagnostics/2026-11-17_v2_1_44_operator_scope/report_form_revision/accepted_audit.json",
+    "sha256": "3f73df4faa6d3eeff4ec9eca736cf6c8ce932d1accbbcf7ac7508d835294cfd2"
+  },
+  "lever_audit_ref": {
+    "path": "/Users/ekaterinasilaeva/Codex/VE-Agent/outputs/diagnostics/2026-11-17_v2_1_44_operator_scope/report_form_revision/portable_revision/LEVER_AUDIT.json",
+    "sha256": "910c0910b2c04b4bc43e79264d2cc16f1ce555ee71cbab6e6c1445f1f73df269"
+  },
+  "resource_authorization_ref": {
+    "path": "/Users/ekaterinasilaeva/Codex/VE-Agent/outputs/diagnostics/2026-11-17_v2_1_44_operator_scope/report_form_revision/portable_revision/02_OPERATOR_PACKAGE_AUTHORIZATION.json",
+    "sha256": "727240ee1c3b6d33be1fdd4c7b2782db93c8c7825f6cc33065c29c7cfe9cc7e8"
+  },
+  "history": {
+    "previous_revision": "0.1.3",
+    "previous_archive_ref": {
+      "path": "/Users/ekaterinasilaeva/Codex/VE-Agent/outputs/diagnostics/2026-11-17_v2_1_44_operator_scope/report_form_revision/revision_0.1.3/VE_stage9_report_0.1.3.zip",
+      "sha256": "4028b8c043606b50de14cc318683720caa7897aeaa8fd1c20ad2646d02e05db9"
+    },
+    "previous_manifest_member": "provenance/previous-package-manifest.json",
+    "restoration": "The exact previous ZIP remains at its original path. Prefix history in the previous manifest applies only to that previous ZIP."
+  },
+  "verbatim_cells_ref": {
+    "path": "/Users/ekaterinasilaeva/Codex/VE-Agent/outputs/diagnostics/2026-11-17_v2_1_44_operator_scope/report_form_revision/revision_0.1.2/VERBATIM_CELLS.json.gz",
+    "sha256": "ffaabd28c86a92c4803aea227e6907940ec4bf2b07690e3257328219a57a4bc6"
+  },
+  "real_run_source_registered": true,
+  "new_form_registered": false,
+  "final_report_engineering_accepted": false,
+  "real_run_binding_member": "provenance/real-run-binding.json"
+}
